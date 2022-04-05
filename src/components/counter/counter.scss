@@ -1,0 +1,9 @@
+.counter {
+  font-size: 25px;
+  background-color: pink;
+  color: aqua;
+
+  &__text {
+    margin: 0 25px;
+  }
+}

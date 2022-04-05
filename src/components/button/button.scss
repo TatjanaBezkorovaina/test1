@@ -1,0 +1,10 @@
+.button {
+  &__wrapper {
+    padding-top: 30px;
+  }
+
+  &__btn {
+    background: gray;
+    cursor: pointer;
+  }
+}
